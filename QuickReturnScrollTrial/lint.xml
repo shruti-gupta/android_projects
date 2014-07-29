@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="ClickableViewAccessibility">
+        <ignore path="src/com/example/android/scrolltricks/ObservableScrollView.java" />
+    </issue>
+    <issue id="HandlerLeak">
+        <ignore path="src/com/example/android/scrolltricks/QuickReturnFragment.java" />
+    </issue>
+</lint>
